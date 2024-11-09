@@ -4,9 +4,9 @@ APLIKASI GENAP GANJIL
 
 Latihan 1 (Zainal Abidin_2210010087)
 
-KELAS : 5B NonReg Banjarmasin
+KELAS : 5B NONREG BANJARMASIN
 
-DI SINI SAYA MELAKUKAN:
+DI SINI SAYA :
 
 #1. Membuat Proyek Baru
 
